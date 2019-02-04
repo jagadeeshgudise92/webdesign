@@ -1,0 +1,31 @@
+#main{
+  font-family: "Times New Rome", Times, serif;
+  border :5px solid #939e77;
+  border-radius: 10px;
+  min-width: 250px;
+  text-align: center;
+}
+#img-div{
+  text-align: center;
+  margin: auto;
+  width: auto;
+  height: auto;
+  }
+#image{
+  border-radius: 5px;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: 45px;
+}
+#img-caption{
+  margin: 5px;
+}
+#tribute-info{
+  text-align: center;
+}
+li{
+  margin: 10px;
+  text-align: left;
+}
